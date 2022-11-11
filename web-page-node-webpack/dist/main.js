@@ -1,0 +1,1 @@
+window.onload=function(){document.body.appendChild(function(){const n=document.createElement("div");return n.innerHTML="<p>Hello</p>",n}())};
